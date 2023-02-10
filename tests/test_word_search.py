@@ -22,7 +22,7 @@ text_search_by_word = [
             {
                 "linha": 3,
                 "conteudo": "Pedro tinha uma amiga chamada Carol.",  # noqa
-            }
+            },
         ],
     }
 ]
